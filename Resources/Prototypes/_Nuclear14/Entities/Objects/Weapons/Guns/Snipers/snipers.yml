@@ -519,7 +519,7 @@
         priority: 2
         whitelist:
           tags:
-            - N14Magazine308RifleSniper
+            - N14Magazine308RifleSnipers
       gun_chamber:
         name: Chamber
         startingItem: N14Cartridge308Rifle

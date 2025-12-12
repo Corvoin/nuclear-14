@@ -106,7 +106,7 @@
   components:
   - type: Tag
     tags:
-      - N14Magazine308RifleSniper
+      - N14Magazine308RifleSnipers
   - type: BallisticAmmoProvider
     proto: N14Cartridge308Rifle
     capacity: 10
