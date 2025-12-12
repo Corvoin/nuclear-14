@@ -223,8 +223,8 @@ undecided-loadout-category-ranger-sniper-description =
 undecided-loadout-category-ranger-cqb-name = Набор рейнджера CQB
 undecided-loadout-category-ranger-cqb-description =
     Ящик с продвинутым вооружением для рейнджеров.
-    Содержит: 1 подсумок НКР, 1 дробовик для беспорядков, 3 барабанных магазина 20 калибра,
-    1 коробка патронов 20 калибра, 2 боевых ножа, 2 стимпака и сухпаёк типа C.
+    Содержит: 1 подсумок НКР, 1 боевой дробовик , 2 барабанных магазина 12 калибра,
+    1 коробка патронов 12 калибра, 2 боевых ножа, 2 стимпака и сухпаёк типа C.
 
 undecided-loadout-category-ranger-trailman-name = Набор следопыта-рейнджера
 undecided-loadout-category-ranger-trailman-description =
