@@ -761,7 +761,7 @@
   - type: SpawnItemsOnUse
     items:
       - id: ClothingBeltNCR
-      - id: N14WeaponRifle556Butchered
+      - id: N14WeaponRifle556Butchered # forge-change
       - id: Magazine556Rifle
         amount: 4
       - id: MagazineBox556
@@ -865,6 +865,7 @@
     sound:
       path: /Audio/Effects/unwrap.ogg
 
+# forge-add
 - type: entity
   name: ranger sniper kit
   parent: KitBase

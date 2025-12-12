@@ -604,6 +604,7 @@
   content:
   - KitTrailmanRanger
 
+#forge-add
 - type: UndecidedLoadoutBackpackSet
   id: RangerSniperSet
   name: undecided-loadout-category-ranger-sniper-name
