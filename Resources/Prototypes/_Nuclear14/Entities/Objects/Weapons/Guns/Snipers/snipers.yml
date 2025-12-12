@@ -526,7 +526,7 @@
         priority: 1
         whitelist:
           tags:
-            - N14Cartridge308RifleSniper
+            - N14Cartridge308Rifle
   - type: StaticPrice
     price: 175
 # Forge-add-end
