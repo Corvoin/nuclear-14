@@ -533,11 +533,13 @@
   name: "Патроны"
   entries:
   - proto: N14PowerCellSmall
-    price: 25
+    price: 75
   - proto: N14PowerCellHigh
-    price: 35
+    price: 125
+    count: 15
   - proto: N14PlasmaCartridge
-    price: 50
+    price: 150
+    count: 12
   - proto: 40mmGrenadeFrag
     price: 150
     count: 10
@@ -661,8 +663,6 @@
   - proto: N14ClothingOuterRaiderCombat1
     price: 250
   - proto: N14ClothingOuterCombatArmor
-    price: 250
-  - proto: N14ClothingOuterCombatArmorChinese
     price: 250
 
 - type: storeCategoryStructured
